@@ -1,0 +1,38 @@
+{
+    "users": [
+      {
+        "username": "shar",
+        "email": "shar@gmail.com",
+        "password": "password",
+        "gender":"M",
+        "rain_event_count": "10",
+        "activities": [
+            {
+                "id": 0,
+                "name": "picnic",
+                "lat": "1.424445",
+                "long": "103.842743",
+                "start_time": "2022-10-19T08:00:00",
+                "end_time": "2022-10-19T10:00:00"
+            }
+        ]
+      },
+      {
+        "username": "easypeasy",
+        "email": "easypeasy@gmail.com",
+        "password": "password",
+        "gender":"M",
+        "rain_event_count": "2",
+        "activities": [
+            {
+                "id": 0,
+                "name": "jogging",
+                "lat": "1.424445",
+                "long": "103.842743",
+                "start_time": "2022-10-19T08:00:00",
+                "end_time": "2022-10-19T10:00:00"
+            }
+        ]
+      }
+    ]
+  }
